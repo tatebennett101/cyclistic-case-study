@@ -1,4 +1,4 @@
-# google-data-analytics-final
+# (from Google's Data Analytics Coursera course)
 
 # **Introduction**
 
