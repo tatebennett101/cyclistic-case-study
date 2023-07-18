@@ -75,4 +75,4 @@ Key stakeholders:
 
 
 # **Part 2: Prepare**
-We will be using Cyclistic's trip data for the previous 12 months (June 2022 to May 2023) 
+We will be using Cyclistic's trip data for the previous 12 months from [here](https://divvy-tripdata.s3.amazonaws.com/index.html), provided by Motivate International Inc. [here](https://www.divvybikes.com/data-license-agreement). Within this data set, there are CSVs containing Cyclistic rider data for every month, but we'll be focusing on the past twelve months (July 2022 to June 2023). Some of the data included is ride start-end dates and times, bike type, and rider type (the focus of this case study), to name a few. 
