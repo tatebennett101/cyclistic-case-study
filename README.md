@@ -68,6 +68,7 @@ differently?**
 
 A clear statement of the business task:
 - The business task here is to use the given rider data to analyze and visualize how casual riders and annual members of Cyclistic use the bikes differently, and to implement an understanding of these analyses to increase annual membership.
+
 Key stakeholders:
 - Lily Moreno (director of marketing) and the Cyclistic executive team
 
