@@ -105,6 +105,10 @@ Various statistics for casual vs. member
 | Casual | 20.48 | 11.97 | 32035.45 | 0.017 |
 | Member | 12.06 | 8.55 | 1499.93 | 0.017 |
 
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+
 Most popular start stations for casual vs. member
 
 *Casual*
@@ -127,4 +131,87 @@ Most popular start stations for casual vs. member
 | Wells St & Concord Ln | 21793 |
 | University Ave & 57th St | 21141 |
 
-- The day in which the most rides are taken is **Saturday**.
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+
+- The day in which the most rides are taken is **Saturday** (calculated by a mode function in the R script).
+
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+
+Rides taken per hour per day
+![cyclistic hourly graphs by day](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/32da727a-2bbe-4fa0-99eb-2b8d5e93319a)
+On weekdays, the most popular time to rent a bike seems to be about 5:00 PM. The reason for this is likely for people's commutes home from work. The weekends have a much more even
+spread of hours from early afternoon to evening. 
+
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+
+% of rides by user type
+![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/2ffec371-d4e8-4446-b4ef-a1709d5ad87e)
+
+There are many more members using Cyclistic than there are simply casual users.
+
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+
+Average ride durations
+![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/50deff13-39f9-4e74-a252-435364110afc)
+![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/a8a27b6f-8cb5-4fad-b6ff-bf675751916b)
+![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/000800a1-43f0-4cd2-b398-3064b3b75a48)
+
+However, there's a big disparity in the opposite direction for the average ride time. Member ride times are likely lower on average because they simply use them to get from
+Point A to Point B (i.e. commuting to and from work, etc.). On the other hand, Cyclistic guest users are more likely to be tourists, and as Chicago is a very bike-friendly
+city, they would be able to take the bikes to more destinations, thus renting them for longer.
+
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+
+![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/c3d44f9a-1a46-4120-aa2f-915b9f4563d8)
+![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/0a0f7431-2904-466b-a468-feee4399ebdf)
+
+But, keeping in line with there being more members than casual users, the total number of rides per week and month for members exceeds that of casual users. In the winter months,
+both categories of users experience a decline, as Chicago weather during the wintertime is not ideal to bike in. 
+
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+
+Casual rider weekend statistics
+![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/d6ef29d8-e52b-4722-9a8f-fb8d3bd6f0c1)
+![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/ef7c1d4f-707d-48f4-b263-ec1372ffdf6f)
+
+On the weekends, casual riders experience a big uptick in both number of rides and average duration of rides. The reason for this is likely due to a tourism effect. More people will be
+coming in from out of town on the weekends, as they will have more free time when they're not working. 
+
+## **Part 6: Act**
+
+*What is your final conclusion based on your analysis?*
+
+My final conclusion based on my analysis is that Cyclistic members use the service more consistently, while Cyclistic casual users are more sporadic with their use of it. Both the
+average ride time and amount of rides per day of week are relatively constant for members, which can be explained mostly by commute patterns. Meanwhile, for Cyclistic casual users,
+there are large increases of both average ride time and amount of rides on the weekends, as there are more opportunities for leisure and for people from outside of Chicago to visit and use
+the service.
+
+&nbsp;<br>
+&nbsp;<br>
+
+*How could your team and business apply your insights?*
+
+- For starters, we could target consistent casual users by launching an ad campaign that explains the benefits of becoming a member vs. consistently renting casually. It doesn't really make sense for one to use the service daily and not become a member, and this campaign could point that out.
+- Bouncing off of that, we could have posters for this campaign at each of the popular starting points for non-members. Perhaps even if they scan a QR code at one of those sites they can receive a discount on their membership fee!
+- Additionally, we could increase the price of single-use and full-day passes to further incentivize consistent casual users to make the switch to the more cost-effective membership plan.
+
+*What next steps would you or your stakeholders take based on your findings?*
+
+It would likely be beneficial to collect data on weather patterns, socioeconomic data in both station areas and of users, and more in-depth statistics on long-term and/or consistent casual users, but what we have is enough for the applications stated above, in my opinion.
+
+## Conclusion
+
+Cyclistic surely has a bright future ahead of it, especially as we as a society try to shift gears from car-centric transportation. Chicago is a very walkable and bikeable city, hence
+the demand for a service like this. While its existing member base provides a strong foundation, converting some of the long-term and/or consistent casual users into paid members would only benefit the company, and this is worth putting effort into undertaking. 
