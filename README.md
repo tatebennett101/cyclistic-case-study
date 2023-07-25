@@ -79,15 +79,15 @@ We will be using Cyclistic's trip data for the previous 12 months from [here](ht
 
 Does the data ROCCC?
 - Reliable: the sample sizes are large (n >= 30), and represent all Cyclistic rides within the city of Chicago for the duration that we're studying
-- Original: 
-- Comprehensive:
-- Current:
-- Cited:
-
-How does it help you answer your question?
-
-Are there any limitations with the data?
+- Original: The data is all real and comes from Divvy, a bike-sharing company in Chicago.
+- Comprehensive: the data includes extensive information about each ride conducted through the app, like when it started and finished, what stations were used, etc.
+- Current: The data goes up to June of 2022
+- Cited: It's available under the Data License Agreement.
 
 
 # **Part 3: Process**
 This part of the case study involves ensuring that we can move forward with our analysis without any hiccups. In other words, we need to make sure that the data is formatted uniformly, and that there are no other noticeable errors. 
+
+The tools I will use to process the data are R and Microsoft Excel. The reason I'll be using R is because the data we're working with is large, and R will be able to effectively leverage data sets of such size. Microsoft Excel will be used to conduct further data analysis after R is used.
+
+R is also going to be used to clean the data. The full R script that I used to clean and conduct some data analysis can be found [here](). 
