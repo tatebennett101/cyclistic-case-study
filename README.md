@@ -98,7 +98,33 @@ R is also going to be used to analyze the data. The full R script that I used to
 
 Now, let's go over our findings, firstly with the ones that can be found within the R script.
 
+Various statistics for casual vs. member
+
 | User Type | Mean | Median | Max | Min |
 | --- | --- | --- | --- | --- |
 | Casual | 20.48 | 11.97 | 32035.45 | 0.017 |
 | Member | 12.06 | 8.55 | 1499.93 | 0.017 |
+
+Most popular start stations for casual vs. member
+
+*Casual*
+
+| Station Name | Number of Starts |
+| --- | --- |
+| Streeter Dr & Grand Ave | 52653 |
+| DuSable Lake Shore Dr & Monroe St | 30705 |
+| Michigan Ave & Oak St | 23931 |
+| Millennium Park | 23386 |
+| DuSable Lake Shore Dr & North Blvd | 21858 |
+
+*Member*
+
+| Station Name | Number of Starts |
+| --- | --- |
+| Kingsbury St & Kinzie St | 25288 |
+| Clark St & Elm St | 23433 |
+| Clinton St & Washington Blvd | 22433 |
+| Wells St & Concord Ln | 21793 |
+| University Ave & 57th St | 21141 |
+
+- The day in which the most rides are taken is **Saturday**.
