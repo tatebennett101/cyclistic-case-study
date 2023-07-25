@@ -90,4 +90,4 @@ This part of the case study involves ensuring that we can move forward with our 
 
 The tools I will use to process the data are R and Microsoft Excel. The reason I'll be using R is because the data we're working with is large, and R will be able to effectively leverage data sets of such size. Microsoft Excel will be used to conduct further data analysis after R is used.
 
-R is also going to be used to clean the data. The full R script that I used to clean and conduct some data analysis can be found [here](). 
+R is also going to be used to clean the data. The full R script that I used to clean and conduct some data analysis can be found [here](https://github.com/tatebennett101/cyclistic-case-study/blob/main/cyclistic.R). 
