@@ -88,6 +88,10 @@ Does the data ROCCC?
 # **Part 3: Process**
 This part of the case study involves ensuring that we can move forward with our analysis without any hiccups. In other words, we need to make sure that the data is formatted uniformly, and that there are no other noticeable errors. 
 
-The tools I will use to process the data are R and Microsoft Excel. The reason I'll be using R is because the data we're working with is large, and R will be able to effectively leverage data sets of such size. Microsoft Excel will be used to conduct further data analysis after R is used.
+The tool I will use to process the data is R. The reason I'll be using R is because the data we're working with is large, and R will be able to effectively leverage data sets of such size. The full R script I used to clean the data can be found [here](https://github.com/tatebennett101/cyclistic-case-study/blob/main/cyclistic.R).
 
-R is also going to be used to clean the data. The full R script that I used to clean and conduct some data analysis can be found [here](https://github.com/tatebennett101/cyclistic-case-study/blob/main/cyclistic.R). 
+# **Part 4: Analyze**
+
+R is also going to be used to analyze the data. The full R script that I used to conduct some data analysis can be found [here](https://github.com/tatebennett101/cyclistic-case-study/blob/main/cyclistic.R). The Excel files I used containing pivot tables to form graphs per month and week can be found [here](https://github.com/tatebennett101/cyclistic-case-study/blob/main/monthly_ride_lengths.xlsx) and [here](https://github.com/tatebennett101/cyclistic-case-study/blob/main/weekly_ride_lengths.xlsx) respectively.
+
+
