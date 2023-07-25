@@ -94,4 +94,11 @@ The tool I will use to process the data is R. The reason I'll be using R is beca
 
 R is also going to be used to analyze the data. The full R script that I used to conduct some data analysis can be found [here](https://github.com/tatebennett101/cyclistic-case-study/blob/main/cyclistic.R). The Excel files I used containing pivot tables to form graphs per month and week can be found [here](https://github.com/tatebennett101/cyclistic-case-study/blob/main/monthly_ride_lengths.xlsx) and [here](https://github.com/tatebennett101/cyclistic-case-study/blob/main/weekly_ride_lengths.xlsx) respectively.
 
+# **Part 5: Share**
 
+Now, let's go over our findings, firstly with the ones that can be found within the R script.
+
+| User Type | Mean | Median | Max | Min |
+| --- | --- | --- | --- | --- |
+| Casual | 20.48 | 11.97 | 32035.45 | 0.017 |
+| Member | 12.06 | 8.55 | 1499.93 | 0.017 |
