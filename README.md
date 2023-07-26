@@ -142,7 +142,7 @@ Most popular start stations for casual vs. member
 &nbsp;<br>
 
 Rides taken per hour per day
-![cyclistic hourly graphs by day](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/32da727a-2bbe-4fa0-99eb-2b8d5e93319a)
+![cyclistic hourly graphs by day](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/bec01461-7f38-4912-a6c3-532e837255ab)
 On weekdays, the most popular time to rent a bike seems to be about 5:00 PM. The reason for this is likely for people's commutes home from work. The weekends have a much more even
 spread of hours from early afternoon to evening. 
 
@@ -151,7 +151,7 @@ spread of hours from early afternoon to evening.
 &nbsp;<br>
 
 % of rides by user type
-![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/2ffec371-d4e8-4446-b4ef-a1709d5ad87e)
+![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/01ca72c5-0ade-42f9-9b33-a5b667610bc8)
 
 There are many more members using Cyclistic than there are simply casual users.
 
@@ -160,9 +160,9 @@ There are many more members using Cyclistic than there are simply casual users.
 &nbsp;<br>
 
 Average ride durations
-![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/50deff13-39f9-4e74-a252-435364110afc)
-![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/a8a27b6f-8cb5-4fad-b6ff-bf675751916b)
-![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/000800a1-43f0-4cd2-b398-3064b3b75a48)
+![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/8f8b8d92-31fd-41ab-8713-13afd73a0bd4)
+![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/870ff0ec-0ec1-409c-93de-636379e2e4b1)
+![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/d3f2f9b3-a02d-4143-9eb4-72a60a6624b4)
 
 However, there's a big disparity in the opposite direction for the average ride time. Member ride times are likely lower on average because they simply use them to get from
 Point A to Point B (i.e. commuting to and from work, etc.). On the other hand, Cyclistic guest users are more likely to be tourists, and as Chicago is a very bike-friendly
@@ -172,8 +172,8 @@ city, they would be able to take the bikes to more destinations, thus renting th
 &nbsp;<br>
 &nbsp;<br>
 
-![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/c3d44f9a-1a46-4120-aa2f-915b9f4563d8)
-![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/0a0f7431-2904-466b-a468-feee4399ebdf)
+![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/2b4ce4ae-a452-44ac-9cf8-bc41969e19ce)
+![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/59c3e28d-871c-479b-9a55-b2d43ce92bfd)
 
 But, keeping in line with there being more members than casual users, the total number of rides per week and month for members exceeds that of casual users. In the winter months,
 both categories of users experience a decline, as Chicago weather during the wintertime is not ideal to bike in. 
@@ -183,8 +183,8 @@ both categories of users experience a decline, as Chicago weather during the win
 &nbsp;<br>
 
 Casual rider weekend statistics
-![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/d6ef29d8-e52b-4722-9a8f-fb8d3bd6f0c1)
-![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/ef7c1d4f-707d-48f4-b263-ec1372ffdf6f)
+![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/59b909cb-2601-4d82-a78b-b9686c076131)
+![image](https://github.com/tatebennett101/cyclistic-case-study/assets/139718858/af2a8b8b-faad-495e-8499-af366b28f19f)
 
 On the weekends, casual riders experience a big uptick in both number of rides and average duration of rides. The reason for this is likely due to a tourism effect. More people will be
 coming in from out of town on the weekends, as they will have more free time when they're not working. 
